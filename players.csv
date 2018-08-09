@@ -1,0 +1,505 @@
+Team, Position, Player Name, Height, Weight, Birth Date
+Boston Celtics,C,Aron Baynes,6 ft 10 in (2.08 m),260 lb (118 kg),1986–12–09
+Boston Celtics,G,Jabari Bird,6 ft 6 in (1.98 m),200 lb (91 kg),1994–07–03
+Boston Celtics,G/F,Jaylen Brown,6 ft 7 in (2.01 m),225 lb (102 kg),1996–10–24
+Boston Celtics,F,Gordon Hayward,6 ft 8 in (2.03 m),226 lb (103 kg),1990–03–23
+Boston Celtics,F/C,Al Horford,6 ft 10 in (2.08 m),245 lb (111 kg),1986–06–03
+Boston Celtics,G,Kyrie Irving,6 ft 3 in (1.91 m),193 lb (88 kg),1992–03–23
+Boston Celtics,G,Walter Lemon,6 ft 3 in (1.91 m),180 lb (82 kg),1992–07–26
+Boston Celtics,F,Marcus Morris,6 ft 9 in (2.06 m),235 lb (107 kg),1989–09–02
+Boston Celtics,F,Semi Ojeleye,6 ft 7 in (2.01 m),235 lb (107 kg),1994–12–05
+Boston Celtics,G,Terry Rozier,6 ft 2 in (1.88 m),190 lb (86 kg),1994–03–17
+Boston Celtics,G,Marcus Smart,6 ft 4 in (1.93 m),220 lb (100 kg),1994–03–06
+Boston Celtics,F,Jayson Tatum,6 ft 8 in (2.03 m),205 lb (93 kg),1998–03–03
+Boston Celtics,F/C,Daniel Theis,6 ft 9 in (2.06 m),243 lb (110 kg),1992–04–04
+Boston Celtics,G,Brad Wanamaker,6 ft 4 in (1.93 m),209 lb (95 kg),1989–07–25
+Boston Celtics,F,Robert Williams,6 ft 10 in (2.08 m),241 lb (109 kg),1997–10–17
+Boston Celtics,F,Guerschon Yabusele,6 ft 8 in (2.03 m),260 lb (118 kg),1995–12–17
+Brooklyn Nets,C,Jarrett Allen,6 ft 11 in (2.11 m),234 lb (106 kg),1998–04–21
+Brooklyn Nets,F,DeMarre Carroll,6 ft 8 in (2.03 m),215 lb (98 kg),1986–07–27
+Brooklyn Nets,G/F,Allen Crabbe,6 ft 6 in (1.98 m),215 lb (98 kg),1992–04–09
+Brooklyn Nets,G,Spencer Dinwiddie,6 ft 6 in (1.98 m),200 lb (91 kg),1993–04–06
+Brooklyn Nets,F/C,Ed Davis,6 ft 10 in (2.08 m),245 lb (111 kg),1989–06–05
+Brooklyn Nets,F,Jared Dudley,6 ft 7 in (2.01 m),240 lb (109 kg),1985–07–10
+Brooklyn Nets,F,Kenneth Faried,6 ft 8 in (2.03 m),228 lb (103 kg),1989–11–19
+Brooklyn Nets,G/F,Treveon Graham,6 ft 5 in (1.96 m),219 lb (99 kg),1993–10–28
+Brooklyn Nets,G/F,Joe Harris,6 ft 6 in (1.98 m),219 lb (99 kg),1991–09–07
+Brooklyn Nets,F,Rondae Hollis-Jefferson,6 ft 7 in (2.01 m),214 lb (97 kg),1995–01–03
+Brooklyn Nets,F,Rodions Kurucs,6 ft 9 in (2.06 m),220 lb (100 kg),1998–02–05
+Brooklyn Nets,G/F,Caris LeVert,6 ft 7 in (2.01 m),203 lb (92 kg),1994–08–25
+Brooklyn Nets,G/F,Dzanan Musa,6 ft 9 in (2.06 m),201 lb (91 kg),1999–05–08
+Brooklyn Nets,G,Shabazz Napier,6 ft 1 in (1.85 m),175 lb (79 kg),1991–07–14
+Brooklyn Nets,G,D'Angelo Russell,6 ft 5 in (1.96 m),195 lb (88 kg),1996–02–23
+New York Knicks,G,Kadeem Allen,6 ft 3 in (1.91 m),200 lb (91 kg),1993–01–15
+New York Knicks,G,Ron Baker,6 ft 4 in (1.93 m),220 lb (100 kg),1993–03–30
+New York Knicks,G,Trey Burke,6 ft 1 in (1.85 m),191 lb (87 kg),1992–11–12
+New York Knicks,G,Damyean Dotson,6 ft 5 in (1.96 m),210 lb (95 kg),1994–05–06
+New York Knicks,G/F,Tim Hardaway,6 ft 6 in (1.98 m),205 lb (93 kg),1992–03–16
+New York Knicks,G/F,Mario Hezonja,6 ft 8 in (2.03 m),218 lb (99 kg),1995–02–25
+New York Knicks,F,Isaiah Hicks,6 ft 9 in (2.06 m),242 lb (110 kg),1994–07–24
+New York Knicks,C,Enes Kanter,6 ft 11 in (2.11 m),245 lb (111 kg),1992–05–20
+New York Knicks,F,Kevin Knox,6 ft 9 in (2.06 m),212 lb (96 kg),1999–08–11
+New York Knicks,F/C,Luke Kornet,7 ft 1 in (2.16 m),250 lb (113 kg),1995–07–15
+New York Knicks,G,Courtney Lee,6 ft 5 in (1.96 m),200 lb (91 kg),1985–10–03
+New York Knicks,G,Emmanuel Mudiay,6 ft 5 in (1.96 m),200 lb (91 kg),1996–03–05
+New York Knicks,C,Joakim Noah,6 ft 11 in (2.11 m),230 lb (104 kg),1985–02–25
+New York Knicks,G,Frank Ntilikina,6 ft 5 in (1.96 m),190 lb (86 kg),1998–07–28
+New York Knicks,F/C,Kristaps Porzingis,7 ft 3 in (2.21 m),240 lb (109 kg),1995–08–02
+New York Knicks,C,Mitchell Robinson,7 ft 1 in (2.16 m),225 lb (102 kg),1998–04–01
+New York Knicks,F,Lance Thomas,6 ft 8 in (2.03 m),235 lb (107 kg),1988–04–24
+New York Knicks,G,Allonzo Trier,6 ft 5 in (1.96 m),205 lb (93 kg),1996–01–17
+New York Knicks,F,Noah Vonleh,6 ft 9 in (2.06 m),245 lb (111 kg),1995–08–24
+Philadelphia 76ers,G,Jerryd Bayless,6 ft 3 in (1.91 m),200 lb (91 kg),1988–08–20
+Philadelphia 76ers,F,Jonah Bolden,6 ft 10 in (2.08 m),220 lb (100 kg),1996–01–02
+Philadelphia 76ers,F,Wilson Chandler,6 ft 9 in (2.06 m),225 lb (102 kg),1987–05–10
+Philadelphia 76ers,F,Robert Covington,6 ft 9 in (2.06 m),225 lb (102 kg),1990–12–14
+Philadelphia 76ers,C,Joel Embiid,7 ft 0 in (2.13 m),250 lb (113 kg),1994–03–16
+Philadelphia 76ers,G,Markelle Fultz,6 ft 4 in (1.93 m),200 lb (91 kg),1998–05–29
+Philadelphia 76ers,G,Demetrius Jackson,6 ft 1 in (1.85 m),201 lb (91 kg),1994–09–07
+Philadelphia 76ers,F/C,Amir Johnson,6 ft 9 in (2.06 m),240 lb (109 kg),1987–05–01
+Philadelphia 76ers,G/F,Furkan Korkmaz,6 ft 7 in (2.01 m),190 lb (86 kg),1997–07–24
+Philadelphia 76ers,G,T. J. McConnell,6 ft 2 in (1.88 m),190 lb (86 kg),1992–03–25
+Philadelphia 76ers,G,Shake Milton,6 ft 6 in (1.98 m),207 lb (94 kg),1996–09–26
+Philadelphia 76ers,F/C,Mike Muscala,6 ft 11 in (2.11 m),240 lb (109 kg),1991–07–01
+Philadelphia 76ers,G/F,J. J. Redick,6 ft 4 in (1.93 m),200 lb (91 kg),1984–06–24
+Philadelphia 76ers,F,Dario Saric,6 ft 10 in (2.08 m),223 lb (101 kg),1994–04–08
+Philadelphia 76ers,G,Landry Shamet,6 ft 5 in (1.96 m),188 lb (85 kg),1997–03–13
+Philadelphia 76ers,G/F,Ben Simmons,6 ft 10 in (2.08 m),230 lb (104 kg),1996–07–20
+Philadelphia 76ers,G,Zhaire Smith,6 ft 4 in (1.93 m),199 lb (90 kg),1999–06–04
+Toronto Raptors,F,OG Anunoby,6 ft 8 in (2.03 m),235 lb (107 kg),1997–07–17
+Toronto Raptors,F,Chris Boucher,6 ft 10 in (2.08 m),200 lb (91 kg),1993–01–11
+Toronto Raptors,G,Lorenzo Brown,6 ft 5 in (1.96 m),189 lb (86 kg),1990–08–26
+Toronto Raptors,G/F,Danny Green,6 ft 6 in (1.98 m),215 lb (98 kg),1987–06–22
+Toronto Raptors,F/C,Serge Ibaka,6 ft 10 in (2.08 m),235 lb (107 kg),1989–09–18
+Toronto Raptors,F,Kawhi Leonard,6 ft 7 in (2.01 m),230 lb (104 kg),1991–06–29
+Toronto Raptors,G,Kyle Lowry,6 ft 0 in (1.83 m),205 lb (93 kg),1986–03–25
+Toronto Raptors,G/F,C. J. Miles,6 ft 6 in (1.98 m),225 lb (102 kg),1987–03–18
+Toronto Raptors,G/F,Norman Powell,6 ft 4 in (1.93 m),215 lb (98 kg),1993–05–25
+Toronto Raptors,G,Malachi Richardson,6 ft 6 in (1.98 m),205 lb (93 kg),1996–01–05
+Toronto Raptors,F,Pascal Siakam,6 ft 9 in (2.06 m),230 lb (104 kg),1994–04–02
+Toronto Raptors,C,Jonas Valanciunas,7 ft 0 in (2.13 m),255 lb (116 kg),1992–05–06
+Toronto Raptors,G,Fred VanVleet,6 ft 0 in (1.83 m),195 lb (88 kg),1994–02–25
+Toronto Raptors,G,Delon Wright,6 ft 5 in (1.96 m),190 lb (86 kg),1992–04–26
+Chicago Bulls,G,Rawle Alkins,6 ft 5 in (1.96 m),225 lb (102 kg),1997–10–29
+Chicago Bulls,C,Omer Ask,7 ft 0 in (2.13 m),255 lb (116 kg),1986–07–04
+Chicago Bulls,G,Antonio Blakeney,6 ft 4 in (1.93 m),197 lb (89 kg),1996–10–04
+Chicago Bulls,F,Wendell Carter,6 ft 10 in (2.08 m),251 lb (114 kg),1999–04–16
+Chicago Bulls,G,Antonius Cleveland,6 ft 6 in (1.98 m),195 lb (88 kg),1994–02–02
+Chicago Bulls,G,Kris Dunn,6 ft 4 in (1.93 m),210 lb (95 kg),1994–03–18
+Chicago Bulls,F/C,Cristiano Felicio,6 ft 9 in (2.06 m),280 lb (127 kg),1992–07–07
+Chicago Bulls,G/F,Justin Holiday,6 ft 6 in (1.98 m),185 lb (84 kg),1989–04–05
+Chicago Bulls,F,Chandler Hutchison,6 ft 7 in (2.01 m),197 lb (89 kg),1996–04–26
+Chicago Bulls,G,Zach LaVine,6 ft 5 in (1.96 m),185 lb (84 kg),1995–03–10
+Chicago Bulls,C,Robin Lopez,7 ft 0 in (2.13 m),277 lb (126 kg),1988–04–01
+Chicago Bulls,F,Lauri Markkanen,7 ft 0 in (2.13 m),230 lb (104 kg),1997–05–22
+Chicago Bulls,F,Jabari Parker,6 ft 8 in (2.03 m),250 lb (113 kg),1995–05–15
+Chicago Bulls,G,Cameron Payne,6 ft 3 in (1.91 m),185 lb (84 kg),1994–08–08
+Chicago Bulls,F,Bobby Portis,6 ft 11 in (2.11 m),248 lb (112 kg),1995–02–10
+Chicago Bulls,F,Denzel Valentine,6 ft 6 in (1.98 m),214 lb (97 kg),1993–11–16
+Cleveland Cavaliers,G,Jordan Clarkson,6 ft 5 in (1.96 m),194 lb (88 kg),1992–06–07
+Cleveland Cavaliers,F,Channing Frye,6 ft 11 in (2.11 m),255 lb (116 kg),1983–05–17
+Cleveland Cavaliers,G,George Hill,6 ft 3 in (1.91 m),188 lb (85 kg),1986–05–04
+Cleveland Cavaliers,G/F,John Holland,6 ft 5 in (1.96 m),205 lb (93 kg),1988–11–06
+Cleveland Cavaliers,F,Rodney Hood,6 ft 8 in (2.03 m),206 lb (93 kg),1992–10–20
+Cleveland Cavaliers,G,Kyle Korver,6 ft 7 in (2.01 m),212 lb (96 kg),1981–03–17
+Cleveland Cavaliers,F/C,Kevin Love,6 ft 10 in (2.08 m),251 lb (114 kg),1988–09–07
+Cleveland Cavaliers,F,Larry Nance,6 ft 9 in (2.06 m),230 lb (104 kg),1993–01–01
+Cleveland Cavaliers,F,Cedi Osman,6 ft 8 in (2.03 m),215 lb (98 kg),1995–04–08
+Cleveland Cavaliers,F,Billy Preston,6 ft 10 in (2.08 m),240 lb (109 kg),1997–10–26
+Cleveland Cavaliers,G,Collin Sexton,6 ft 2 in (1.88 m),183 lb (83 kg),1999–01–04
+Cleveland Cavaliers,G,J. R. Smith,6 ft 6 in (1.98 m),225 lb (102 kg),1985–09–09
+Cleveland Cavaliers,F/C,Tristan Thompson,6 ft 9 in (2.06 m),238 lb (108 kg),1991–03–13
+Cleveland Cavaliers,F,Okaro White,6 ft 8 in (2.03 m),215 lb (98 kg),1992–08–13
+Cleveland Cavaliers,F/C,Ante Zizic,6 ft 11 in (2.11 m),250 lb (113 kg),1997–01–04
+Detroit Pistons,G,Bruce Brown,6 ft 5 in (1.96 m),202 lb (92 kg),1996–08–15
+Detroit Pistons,G/F,Reggie Bullock,6 ft 7 in (2.01 m),205 lb (93 kg),1991–03–16
+Detroit Pistons,G,Jose Calderon,6 ft 3 in (1.91 m),200 lb (91 kg),1981–09–28
+Detroit Pistons,C,Andre Drummond,6 ft 11 in (2.11 m),279 lb (127 kg),1993–08–10
+Detroit Pistons,F,Henry Ellenson,6 ft 11 in (2.11 m),245 lb (111 kg),1997–01–13
+Detroit Pistons,G,Keenan Evans,6 ft 3 in (1.91 m),190 lb (86 kg),1996–08–23
+Detroit Pistons,G,Langston Galloway,6 ft 2 in (1.88 m),200 lb (91 kg),1991–12–09
+Detroit Pistons,F,Blake Griffin,6 ft 10 in (2.08 m),251 lb (114 kg),1989–03–16
+Detroit Pistons,F,Reggie Hearn,6 ft 5 in (1.96 m),210 lb (95 kg),1991–08–14
+Detroit Pistons,G,Reggie Jackson,6 ft 3 in (1.91 m),208 lb (94 kg),1990–04–16
+Detroit Pistons,F,Stanley Johnson,6 ft 7 in (2.01 m),245 lb (111 kg),1996–05–29
+Detroit Pistons,G,Luke Kennard,6 ft 5 in (1.96 m),200 lb (91 kg),1996–06–24
+Detroit Pistons,F/C,Jon Leuer,6 ft 10 in (2.08 m),228 lb (103 kg),1989–05–14
+Detroit Pistons,C,Zaza Pachulia,6 ft 11 in (2.11 m),270 lb (122 kg),1984–02–10
+Detroit Pistons,G/F,Glenn Robinson,6 ft 7 in (2.01 m),215 lb (98 kg),1994–01–08
+Detroit Pistons,G,Ish Smith,6 ft 0 in (1.83 m),175 lb (79 kg),1988–07–05
+Detroit Pistons,G,Khyri Thomas,6 ft 4 in (1.93 m),199 lb (90 kg),1996–05–08
+Indiana Pacers,F/C,Ike Anigbogu,6 ft 10 in (2.08 m),262 lb (119 kg),1998–10–22
+Indiana Pacers,G/F,Bojan Bogdanovic,6 ft 8 in (2.03 m),230 lb (104 kg),1989–04–18
+Indiana Pacers,G,Darren Collison,6 ft 2 in (1.88 m),185 lb (84 kg),1987–08–23
+Indiana Pacers,G/F,Tyreke Evans,6 ft 6 in (1.98 m),220 lb (100 kg),1989–09–19
+Indiana Pacers,G,Aaron Holiday,6 ft 1 in (1.85 m),187 lb (85 kg),1996–09–30
+Indiana Pacers,F,Alize Johnson,6 ft 8 in (2.03 m),216 lb (98 kg),1996–04–22
+Indiana Pacers,G,Cory Joseph,6 ft 3 in (1.91 m),190 lb (86 kg),1991–08–20
+Indiana Pacers,F,T. J. Leaf,6 ft 10 in (2.08 m),230 lb (104 kg),1997–04–30
+Indiana Pacers,F,Doug McDermott,6 ft 8 in (2.03 m),219 lb (99 kg),1992–01–03
+Indiana Pacers,G,Victor Oladipo,6 ft 4 in (1.93 m),210 lb (95 kg),1992–05–04
+Indiana Pacers,F/C,Kyle O'Quinn,6 ft 10 in (2.08 m),250 lb (113 kg),1990–03–26
+Indiana Pacers,F/C,Domantas Sabonis,6 ft 10 in (2.08 m),252 lb (114 kg),1996–05–03
+Indiana Pacers,G,Edmond Sumner,6 ft 5 in (1.96 m),188 lb (85 kg),1995–12–31
+Indiana Pacers,C,Myles Turner,6 ft 11 in (2.11 m),255 lb (116 kg),1996–03–24
+Milwaukee Bucks,F,Giannis Antetokounmpo,6 ft 11 in (2.11 m),222 lb (101 kg),1994–12–06
+Milwaukee Bucks,G,Eric Bledsoe,6 ft 1 in (1.85 m),205 lb (93 kg),1989–12–09
+Milwaukee Bucks,G,Malcolm Brogdon,6 ft 5 in (1.96 m),215 lb (98 kg),1992–12–11
+Milwaukee Bucks,G,Sterling Brown,6 ft 6 in (1.98 m),230 lb (104 kg),1995–02–10
+Milwaukee Bucks,G,Matthew Dellavedova,6 ft 4 in (1.93 m),198 lb (90 kg),1990–09–08
+Milwaukee Bucks,G,Donte DiVincenzo,6 ft 5 in (1.96 m),200 lb (91 kg),1997–01–31
+Milwaukee Bucks,G,Trevon Duval,6 ft 3 in (1.91 m),186 lb (84 kg),1998–08–03
+Milwaukee Bucks,C,John Henson,6 ft 11 in (2.11 m),229 lb (104 kg),1990–12–28
+Milwaukee Bucks,F,Ersan Ilyasova,6 ft 10 in (2.08 m),235 lb (107 kg),1987–05–15
+Milwaukee Bucks,G,Brandon Jennings,6 ft 1 in (1.85 m),170 lb (77 kg),1989–09–23
+Milwaukee Bucks,C,Brook Lopez,7 ft 0 in (2.13 m),268 lb (122 kg),1988–04–01
+Milwaukee Bucks,F/C,Thon Maker,7 ft 1 in (2.16 m),223 lb (101 kg),1997–02–25
+Milwaukee Bucks,C,Brandon McCoy,7 ft 0 in (2.13 m),250 lb (113 kg),1998–06–11
+Milwaukee Bucks,F,Khris Middleton,6 ft 8 in (2.03 m),234 lb (106 kg),1991–08–12
+Milwaukee Bucks,G,Jaylen Morris,6 ft 5 in (1.96 m),185 lb (84 kg),1995–09–19
+Milwaukee Bucks,G,Tony Snell,6 ft 7 in (2.01 m),221 lb (100 kg),1991–11–10
+Milwaukee Bucks,G,Jason Terry,6 ft 2 in (1.88 m),185 lb (84 kg),1977–09–15
+Milwaukee Bucks,G,Travis Trice,6 ft 2 in (1.88 m),177 lb (80 kg),1993–01–22
+Milwaukee Bucks,F,D. J. Wilson,6 ft 10 in (2.08 m),236 lb (107 kg),1996–02–19
+Milwaukee Bucks,C,Tyler Zeller,7 ft 0 in (2.13 m),250 lb (113 kg),1990–01–17
+Atlanta Hawks,G,Jaylen Adams,6 ft 2 in (1.88 m),225 lb (102 kg),1996–05–04
+Atlanta Hawks,G/F,Justin Anderson,6 ft 6 in (1.98 m),230 lb (104 kg),1993–11–19
+Atlanta Hawks,G,Kent Bazemore,6 ft 5 in (1.96 m),201 lb (91 kg),1989–07–01
+Atlanta Hawks,G/F,DeAndre' Bembry,6 ft 6 in (1.98 m),210 lb (95 kg),1994–07–04
+Atlanta Hawks,F/C,John Collins,6 ft 10 in (2.08 m),235 lb (107 kg),1997–09–23
+Atlanta Hawks,C,Dewayne Dedmon,7 ft 0 in (2.13 m),245 lb (111 kg),1989–08–12
+Atlanta Hawks,G,Tyler Dorsey,6 ft 5 in (1.96 m),183 lb (83 kg),1996–02–18
+Atlanta Hawks,G,Kevin Huerter,6 ft 7 in (2.01 m),194 lb (88 kg),1998–08–27
+Atlanta Hawks,G,Jeremy Lin,6 ft 3 in (1.91 m),200 lb (91 kg),1988–08–23
+Atlanta Hawks,C,Miles Plumlee,6 ft 11 in (2.11 m),249 lb (113 kg),1988–09–01
+Atlanta Hawks,F,Taurean Prince,6 ft 8 in (2.03 m),220 lb (100 kg),1994–03–22
+Atlanta Hawks,F,Omari Spellman,6 ft 9 in (2.06 m),253 lb (115 kg),1997–07–21
+Atlanta Hawks,G,Trae Young,6 ft 2 in (1.88 m),180 lb (82 kg),1998–09–19
+Charlotte Hornets,F,Dwayne Bacon,6 ft 7 in (2.01 m),221 lb (100 kg),1995–08–30
+Charlotte Hornets,G,Jaylen Barford,6 ft 2 in (1.88 m),207 lb (94 kg),1996–01–23
+Charlotte Hornets,G/F,Nicolas Batum,6 ft 8 in (2.03 m),200 lb (91 kg),1988–12–14
+Charlotte Hornets,C,Bismack Biyombo,6 ft 9 in (2.06 m),255 lb (116 kg),1992–08–28
+Charlotte Hornets,F,Miles Bridges,6 ft 7 in (2.01 m),220 lb (100 kg),1998–03–21
+Charlotte Hornets,G,Joe Chealey,6 ft 4 in (1.93 m),190 lb (86 kg),1995–11–01
+Charlotte Hornets,G,Devonte' Graham,6 ft 2 in (1.88 m),185 lb (84 kg),1995–02–22
+Charlotte Hornets,C,Willy Hernangomez,6 ft 11 in (2.11 m),240 lb (109 kg),1994–05–27
+Charlotte Hornets,F/C,Frank Kaminsky,7 ft 0 in (2.13 m),242 lb (110 kg),1993–04–04
+Charlotte Hornets,F,Michael Kidd-Gilchrist,6 ft 7 in (2.01 m),232 lb (105 kg),1993–09–26
+Charlotte Hornets,G/F,Arnoldas Kulboka,6 ft 10 in (2.08 m),213 lb (97 kg),1998–01–04
+Charlotte Hornets,G,Jeremy Lamb,6 ft 5 in (1.96 m),185 lb (84 kg),1992–05–30
+Charlotte Hornets,G,J. P. Macura,6 ft 5 in (1.96 m),203 lb (92 kg),1995–06–05
+Charlotte Hornets,F/C,Mangok Mathiang,6 ft 10 in (2.08 m),230 lb (104 kg),1992–10–08
+Charlotte Hornets,G,Malik Monk,6 ft 3 in (1.91 m),200 lb (91 kg),1998–02–04
+Charlotte Hornets,G,Tony Parker,6 ft 2 in (1.88 m),185 lb (84 kg),1982–05–17
+Charlotte Hornets,F,Zach Smith,6 ft 8 in (2.03 m),220 lb (100 kg),1996–01–05
+Charlotte Hornets,G,Kemba Walker,6 ft 1 in (1.85 m),184 lb (83 kg),1990–05–08
+Charlotte Hornets,F,Isaiah Wilkins,6 ft 8 in (2.03 m),205 lb (93 kg),1995–09–23
+Charlotte Hornets,F,Marvin Williams,6 ft 9 in (2.06 m),237 lb (108 kg),1986–06–19
+Charlotte Hornets,F/C,Cody Zeller,7 ft 0 in (2.13 m),240 lb (109 kg),1992–10–05
+Miami Heat,F/C,Bam Adebayo,6 ft 10 in (2.08 m),255 lb (116 kg),1997–07–18
+Miami Heat,F,Luke Babbitt,6 ft 9 in (2.06 m),225 lb (102 kg),1989–06–20
+Miami Heat,G,Goran Dragic,6 ft 3 in (1.91 m),190 lb (86 kg),1986–05–06
+Miami Heat,G,Wayne Ellington,6 ft 5 in (1.96 m),200 lb (91 kg),1987–11–29
+Miami Heat,F,Udonis Haslem,6 ft 8 in (2.03 m),235 lb (107 kg),1980–06–09
+Miami Heat,F,James Johnson,6 ft 8 in (2.03 m),240 lb (109 kg),1987–02–20
+Miami Heat,G,Tyler Johnson,6 ft 4 in (1.93 m),190 lb (86 kg),1992–05–07
+Miami Heat,G/F,Derrick Jones,6 ft 7 in (2.01 m),200 lb (91 kg),1997–02–15
+Miami Heat,F,Yante Maten,6 ft 8 in (2.03 m),240 lb (109 kg),1996–08–14
+Miami Heat,G/F,Rodney McGruder,6 ft 4 in (1.93 m),200 lb (91 kg),1991–07–29
+Miami Heat,F/C,Kelly Olynyk,7 ft 0 in (2.13 m),245 lb (111 kg),1991–04–19
+Miami Heat,G,Josh Richardson,6 ft 6 in (1.98 m),200 lb (91 kg),1993–09–15
+Miami Heat,F,Duncan Robinson,6 ft 8 in (2.03 m),215 lb (98 kg),1994–04–22
+Miami Heat,G,Dwyane Wade,6 ft 4 in (1.93 m),220 lb (100 kg),1982–01–17
+Miami Heat,G,Dion Waiters,6 ft 4 in (1.93 m),215 lb (98 kg),1991–12–10
+Miami Heat,C,Hassan Whiteside,7 ft 0 in (2.13 m),265 lb (120 kg),1989–06–13
+Miami Heat,G/F,Justise Winslow,6 ft 7 in (2.01 m),225 lb (102 kg),1996–03–26
+Orlando Magic,G,D. J. Augustin,6 ft 0 in (1.83 m),183 lb (83 kg),1987–11–10
+Orlando Magic,C,Mohamed Bamba,7 ft 1 in (2.16 m),225 lb (102 kg),1998–05–12
+Orlando Magic,C,Khem Birch,6 ft 9 in (2.06 m),220 lb (100 kg),1992–09–28
+Orlando Magic,G,Isaiah Briscoe,6 ft 3 in (1.91 m),210 lb (95 kg),1996–04–13
+Orlando Magic,G,Troy Caupain,6 ft 4 in (1.93 m),210 lb (95 kg),1995–11–29
+Orlando Magic,G/F,Evan Fournier,6 ft 7 in (2.01 m),205 lb (93 kg),1992–10–29
+Orlando Magic,F,Melvin Frazier,6 ft 6 in (1.98 m),201 lb (91 kg),1996–08–30
+Orlando Magic,F,Aaron Gordon,6 ft 9 in (2.06 m),220 lb (100 kg),1995–09–16
+Orlando Magic,G,Jerian Grant,6 ft 4 in (1.93 m),198 lb (90 kg),1992–10–09
+Orlando Magic,F,Jonathan Isaac,6 ft 10 in (2.08 m),210 lb (95 kg),1997–10–03
+Orlando Magic,F,Wes Iwundu,6 ft 7 in (2.01 m),195 lb (88 kg),1994–12–20
+Orlando Magic,F,Justin Jackson,6 ft 7 in (2.01 m),225 lb (102 kg),1997–02–18
+Orlando Magic,F,Jarell Martin,6 ft 10 in (2.08 m),239 lb (108 kg),1994–05–24
+Orlando Magic,C,Timofey Mozgov,7 ft 1 in (2.16 m),275 lb (125 kg),1986–07–16
+Orlando Magic,G/F,Terrence Ross,6 ft 7 in (2.01 m),206 lb (93 kg),1991–02–05
+Orlando Magic,F,Jonathon Simmons,6 ft 6 in (1.98 m),195 lb (88 kg),1989–09–14
+Orlando Magic,C,Nikola Vucevic,7 ft 0 in (2.13 m),260 lb (118 kg),1990–10–24
+Washington Wizards,G,Bradley Beal,6 ft 5 in (1.96 m),207 lb (94 kg),1993–06–28
+Washington Wizards,F,Troy Brown,6 ft 7 in (2.01 m),215 lb (98 kg),1999–07–28
+Washington Wizards,C,Thomas Bryant,6 ft 10 in (2.08 m),248 lb (112 kg),1997–07–31
+Washington Wizards,F,Jeff Green,6 ft 9 in (2.06 m),235 lb (107 kg),1986–08–28
+Washington Wizards,C,Dwight Howard,6 ft 11 in (2.11 m),265 lb (120 kg),1985–12–08
+Washington Wizards,C,Ian Mahinmi,6 ft 11 in (2.11 m),262 lb (119 kg),1986–11–05
+Washington Wizards,G,Jodie Meeks,6 ft 4 in (1.93 m),210 lb (95 kg),1987–08–21
+Washington Wizards,F,Markieff Morris,6 ft 10 in (2.08 m),245 lb (111 kg),1989–09–02
+Washington Wizards,F,Kelly Oubre,6 ft 7 in (2.01 m),205 lb (93 kg),1995–12–09
+Washington Wizards,F,Otto Porter,6 ft 8 in (2.03 m),198 lb (90 kg),1993–06–03
+Washington Wizards,G,Austin Rivers,6 ft 4 in (1.93 m),200 lb (91 kg),1992–08–01
+Washington Wizards,F,Devin Robinson,6 ft 8 in (2.03 m),200 lb (91 kg),1995–03–07
+Washington Wizards,G/F,Tomas Satoransky,6 ft 7 in (2.01 m),210 lb (95 kg),1991–10–30
+Washington Wizards,F/C,Jason Smith,7 ft 0 in (2.13 m),240 lb (109 kg),1986–03–02
+Washington Wizards,G,John Wall,6 ft 4 in (1.93 m),210 lb (95 kg),1990–09–06
+Dallas Mavericks,F,Kostas Antetokounmpo,6 ft 11 in (2.11 m),195 lb (88 kg),1997–11–20
+Dallas Mavericks,G,J. J. Barea,6 ft 0 in (1.83 m),185 lb (84 kg),1984–06–26
+Dallas Mavericks,F,Harrison Barnes,6 ft 8 in (2.03 m),225 lb (102 kg),1992–05–30
+Dallas Mavericks,G,Jalen Brunson,6 ft 3 in (1.91 m),190 lb (86 kg),1996–08–31
+Dallas Mavericks,G/F,Yanyuhang Ding,6 ft 7 in (2.01 m),205 lb (93 kg),1993–08–20
+Dallas Mavericks,G/F,Luka Doncic,6 ft 8 in (2.03 m),228 lb (103 kg),1999–02–28
+Dallas Mavericks,F,Dorian Finney-Smith,6 ft 8 in (2.03 m),209 lb (95 kg),1993–05–04
+Dallas Mavericks,C,DeAndre Jordan,6 ft 11 in (2.11 m),265 lb (120 kg),1988–07–21
+Dallas Mavericks,F,Maxi Kleber,6 ft 11 in (2.11 m),220 lb (100 kg),1992–01–29
+Dallas Mavericks,F,Terry Larrier,6 ft 8 in (2.03 m),195 lb (88 kg),1995–08–15
+Dallas Mavericks,G,Daryl Macon,6 ft 3 in (1.91 m),185 lb (84 kg),1995–11–29
+Dallas Mavericks,G/F,Wesley Matthews,6 ft 5 in (1.96 m),220 lb (100 kg),1986–10–14
+Dallas Mavericks,F/C,Dirk Nowitzki,7 ft 0 in (2.13 m),245 lb (111 kg),1978–06–19
+Dallas Mavericks,F/C,Dwight Powell,6 ft 11 in (2.11 m),240 lb (109 kg),1991–07–20
+Dallas Mavericks,G,Dennis Smith,6 ft 3 in (1.91 m),195 lb (88 kg),1997–11–25
+Dallas Mavericks,F,Ray Spalding,6 ft 10 in (2.08 m),225 lb (102 kg),1997–03–11
+Houston Rockets,F,Ryan Anderson,6 ft 10 in (2.08 m),240 lb (109 kg),1988–05–06
+Houston Rockets,F/C,Tarik Black,6 ft 9 in (2.06 m),250 lb (113 kg),1991–11–22
+Houston Rockets,C,Clint Capela,6 ft 10 in (2.08 m),240 lb (109 kg),1994–05–18
+Houston Rockets,G,Michael Carter-Williams,6 ft 6 in (1.98 m),190 lb (86 kg),1991–10–10
+Houston Rockets,F,Gary Clark,6 ft 8 in (2.03 m),225 lb (102 kg),1994–11–16
+Houston Rockets,F,Vincent Edwards,6 ft 7 in (2.01 m),220 lb (100 kg),1996–04–05
+Houston Rockets,F,James Ennis,6 ft 7 in (2.01 m),210 lb (95 kg),1990–07–01
+Houston Rockets,G,Eric Gordon,6 ft 4 in (1.93 m),215 lb (98 kg),1988–12–25
+Houston Rockets,G/F,Gerald Green,6 ft 7 in (2.01 m),205 lb (93 kg),1986–01–26
+Houston Rockets,G,James Harden,6 ft 5 in (1.96 m),220 lb (100 kg),1989–08–26
+Houston Rockets,F/C,Isaiah Hartenstein,7 ft 0 in (2.13 m),249 lb (113 kg),1998–05–05
+Houston Rockets,G,R. J. Hunter,6 ft 5 in (1.96 m),185 lb (84 kg),1993–10–24
+Houston Rockets,G/F,Joe Johnson,6 ft 7 in (2.01 m),240 lb (109 kg),1981–06–29
+Houston Rockets,G,De'Anthony Melton,6 ft 3 in (1.91 m),193 lb (88 kg),1998–05–28
+Houston Rockets,F/C,Nene,6 ft 11 in (2.11 m),250 lb (113 kg),1982–09–13
+Houston Rockets,C,Chinanu Onuaku,6 ft 10 in (2.08 m),245 lb (111 kg),1996–11–01
+Houston Rockets,G,Chris Paul,6 ft 0 in (1.83 m),175 lb (79 kg),1985–05–06
+Houston Rockets,F,P. J. Tucker,6 ft 6 in (1.98 m),245 lb (111 kg),1985–05–05
+Houston Rockets,F/C,Qi Zhou,7 ft 1 in (2.16 m),210 lb (95 kg),1996–01–16
+Memphis Grizzlies,F,Kyle Anderson,6 ft 9 in (2.06 m),230 lb (104 kg),1993–09–20
+Memphis Grizzlies,G/F,Dillon Brooks,6 ft 6 in (1.98 m),220 lb (100 kg),1996–01–22
+Memphis Grizzlies,G/F,MarShon Brooks,6 ft 5 in (1.96 m),200 lb (91 kg),1989–01–29
+Memphis Grizzlies,G,Jevon Carter,6 ft 2 in (1.88 m),196 lb (89 kg),1995–09–14
+Memphis Grizzlies,F,Omri Casspi,6 ft 9 in (2.06 m),225 lb (102 kg),1988–06–22
+Memphis Grizzlies,G,Mike Conley,6 ft 1 in (1.85 m),175 lb (79 kg),1987–10–11
+Memphis Grizzlies,C,Marc Gasol,7 ft 1 in (2.16 m),255 lb (116 kg),1985–01–29
+Memphis Grizzlies,F,JaMychal Green,6 ft 9 in (2.06 m),227 lb (103 kg),1990–06–21
+Memphis Grizzlies,G,Andrew Harrison,6 ft 6 in (1.98 m),213 lb (97 kg),1994–10–28
+Memphis Grizzlies,F,Jaren Jackson,6 ft 11 in (2.11 m),242 lb (110 kg),1999–09–15
+Memphis Grizzlies,C,Dakari Johnson,7 ft 0 in (2.13 m),255 lb (116 kg),1995–09–22
+Memphis Grizzlies,F,Chandler Parsons,6 ft 10 in (2.08 m),230 lb (104 kg),1988–10–25
+Memphis Grizzlies,F,Ivan Rabb,6 ft 10 in (2.08 m),220 lb (100 kg),1997–02–04
+Memphis Grizzlies,G/F,Wayne Selden,6 ft 5 in (1.96 m),230 lb (104 kg),1994–09–30
+Memphis Grizzlies,G,Kobi Simmons,6 ft 4 in (1.93 m),170 lb (77 kg),1997–07–04
+Memphis Grizzlies,G/F,Garrett Temple,6 ft 6 in (1.98 m),195 lb (88 kg),1986–05–08
+Memphis Grizzlies,F,Yuta Watanabe,6 ft 9 in (2.06 m),205 lb (93 kg),1994–10–13
+New Orleans Pelicans,C,Alexis Ajinca,7 ft 2 in (2.18 m),248 lb (112 kg),1988–05–06
+New Orleans Pelicans,G,Trevon Bluiett,6 ft 5 in (1.96 m),215 lb (98 kg),1994–11–04
+New Orleans Pelicans,G,Ian Clark,6 ft 3 in (1.91 m),175 lb (79 kg),1991–03–07
+New Orleans Pelicans,G,Jordan Crawford,6 ft 5 in (1.96 m),195 lb (88 kg),1988–10–23
+New Orleans Pelicans,F/C,Anthony Davis,6 ft 10 in (2.08 m),253 lb (115 kg),1993–03–11
+New Orleans Pelicans,F,Cheick Diallo,6 ft 9 in (2.06 m),220 lb (100 kg),1996–09–13
+New Orleans Pelicans,F,Garlon Green,6 ft 7 in (2.01 m),215 lb (98 kg),1991–01–11
+New Orleans Pelicans,F,Solomon Hill,6 ft 7 in (2.01 m),225 lb (102 kg),1991–03–18
+New Orleans Pelicans,G,Jrue Holiday,6 ft 4 in (1.93 m),205 lb (93 kg),1990–06–12
+New Orleans Pelicans,G,Frank Jackson,6 ft 3 in (1.91 m),205 lb (93 kg),1998–05–04
+New Orleans Pelicans,G,DeAndre Liggins,6 ft 6 in (1.98 m),209 lb (95 kg),1988–03–31
+New Orleans Pelicans,F,Darius Miller,6 ft 8 in (2.03 m),225 lb (102 kg),1990–03–21
+New Orleans Pelicans,F,Nikola Mirotic,6 ft 10 in (2.08 m),238 lb (108 kg),1991–02–11
+New Orleans Pelicans,G/F,E'Twaun Moore,6 ft 4 in (1.93 m),191 lb (87 kg),1989–02–25
+New Orleans Pelicans,C,Emeka Okafor,6 ft 10 in (2.08 m),255 lb (116 kg),1982–09–28
+New Orleans Pelicans,G,Elfrid Payton,6 ft 4 in (1.93 m),185 lb (84 kg),1994–02–22
+New Orleans Pelicans,F/C,Julius Randle,6 ft 9 in (2.06 m),250 lb (113 kg),1994–11–29
+New Orleans Pelicans,G,Kenrich Williams,6 ft 7 in (2.01 m),210 lb (95 kg),1994–12–02
+New Orleans Pelicans,F,Troy Williams,6 ft 7 in (2.01 m),220 lb (100 kg),1994–12–30
+San Antonio Spurs,F,LaMarcus Aldridge,6 ft 11 in (2.11 m),260 lb (118 kg),1985–07–19
+San Antonio Spurs,G/F,Marco Belinelli,6 ft 5 in (1.96 m),210 lb (95 kg),1986–03–25
+San Antonio Spurs,F/C,Davis Bertans,6 ft 10 in (2.08 m),210 lb (95 kg),1992–11–12
+San Antonio Spurs,F,Dante Cunningham,6 ft 8 in (2.03 m),230 lb (104 kg),1987–04–22
+San Antonio Spurs,G,DeMar DeRozan,6 ft 7 in (2.01 m),220 lb (100 kg),1989–08–07
+San Antonio Spurs,G,Bryn Forbes,6 ft 3 in (1.91 m),190 lb (86 kg),1993–07–23
+San Antonio Spurs,C,Pau Gasol,7 ft 0 in (2.13 m),250 lb (113 kg),1980–07–06
+San Antonio Spurs,F,Rudy Gay,6 ft 8 in (2.03 m),230 lb (104 kg),1986–08–17
+San Antonio Spurs,G,Manu Ginobili,6 ft 6 in (1.98 m),205 lb (93 kg),1977–07–28
+San Antonio Spurs,F,Chimezie Metu,6 ft 10 in (2.08 m),219 lb (99 kg),1997–03–22
+San Antonio Spurs,G,Patty Mills,6 ft 0 in (1.83 m),185 lb (84 kg),1988–08–11
+San Antonio Spurs,G,Dejounte Murray,6 ft 5 in (1.96 m),170 lb (77 kg),1996–09–19
+San Antonio Spurs,C,Jakob Poltl,7 ft 0 in (2.13 m),230 lb (104 kg),1995–10–15
+San Antonio Spurs,G,Lonnie Walker,6 ft 5 in (1.96 m),196 lb (89 kg),1998–12–14
+San Antonio Spurs,G,Derrick White,6 ft 4 in (1.93 m),190 lb (86 kg),1994–07–02
+Denver Nuggets,G/F,Will Barton,6 ft 6 in (1.98 m),190 lb (86 kg),1991–01–06
+Denver Nuggets,G,Malik Beasley,6 ft 5 in (1.96 m),196 lb (89 kg),1996–11–26
+Denver Nuggets,G/F,Torrey Craig,6 ft 6 in (1.98 m),215 lb (98 kg),1990–12–19
+Denver Nuggets,G,Gary Harris,6 ft 4 in (1.93 m),210 lb (95 kg),1994–09–14
+Denver Nuggets,F,Juan Hernangomez,6 ft 9 in (2.06 m),230 lb (104 kg),1995–09–28
+Denver Nuggets,C,Nikola Jokic,6 ft 10 in (2.08 m),250 lb (113 kg),1995–02–19
+Denver Nuggets,F,Tyler Lydon,6 ft 9 in (2.06 m),220 lb (100 kg),1996–04–09
+Denver Nuggets,F,Trey Lyles,6 ft 10 in (2.08 m),234 lb (106 kg),1995–11–05
+Denver Nuggets,F,Paul Millsap,6 ft 8 in (2.03 m),246 lb (112 kg),1985–02–10
+Denver Nuggets,G,Monte Morris,6 ft 3 in (1.91 m),175 lb (79 kg),1995–06–27
+Denver Nuggets,G,Jamal Murray,6 ft 4 in (1.93 m),207 lb (94 kg),1997–02–23
+Denver Nuggets,F/C,Mason Plumlee,6 ft 11 in (2.11 m),255 lb (116 kg),1990–03–05
+Denver Nuggets,F,Michael Porter,6 ft 10 in (2.08 m),215 lb (98 kg),1998–06–29
+Denver Nuggets,G,Isaiah Thomas,5 ft 9 in (1.75 m),185 lb (84 kg),1989–02–07
+Denver Nuggets,F,Jarred Vanderbilt,6 ft 9 in (2.06 m),214 lb (97 kg),1999–04–03
+Denver Nuggets,C,Thomas Welsh,7 ft 0 in (2.13 m),255 lb (116 kg),1996–02–03
+Minnesota Timberwolves,F,Keita Bates-Diop,6 ft 9 in (2.06 m),223 lb (101 kg),1996–01–23
+Minnesota Timberwolves,G,Aaron Brooks,6 ft 0 in (1.83 m),161 lb (73 kg),1985–01–14
+Minnesota Timberwolves,G,Jimmy Butler,6 ft 8 in (2.03 m),236 lb (107 kg),1989–09–14
+Minnesota Timberwolves,G,Jamal Crawford,6 ft 5 in (1.96 m),185 lb (84 kg),1980–03–20
+Minnesota Timberwolves,C,Gorgui Dieng,6 ft 11 in (2.11 m),251 lb (114 kg),1990–01–18
+Minnesota Timberwolves,G,Marcus Georges-Hunt,6 ft 5 in (1.96 m),226 lb (103 kg),1994–03–28
+Minnesota Timberwolves,F,Taj Gibson,6 ft 9 in (2.06 m),235 lb (107 kg),1985–06–24
+Minnesota Timberwolves,G,Tyus Jones,6 ft 2 in (1.88 m),184 lb (83 kg),1996–05–10
+Minnesota Timberwolves,G,Josh Okogie,6 ft 5 in (1.96 m),211 lb (96 kg),1998–09–01
+Minnesota Timberwolves,C,Justin Patton,7 ft 0 in (2.13 m),236 lb (107 kg),1997–06–14
+Minnesota Timberwolves,G,Derrick Rose,6 ft 3 in (1.91 m),190 lb (86 kg),1988–10–04
+Minnesota Timberwolves,G,Jeff Teague,6 ft 2 in (1.88 m),189 lb (86 kg),1988–06–10
+Minnesota Timberwolves,G,Jared Terrell,6 ft 3 in (1.91 m),216 lb (98 kg),1995–02–10
+Minnesota Timberwolves,F,Anthony Tolliver,6 ft 8 in (2.03 m),240 lb (109 kg),1985–06–01
+Minnesota Timberwolves,C,Karl-Anthony Towns,7 ft 0 in (2.13 m),248 lb (112 kg),1995–11–15
+Minnesota Timberwolves,F,Andrew Wiggins,6 ft 8 in (2.03 m),202 lb (92 kg),1995–02–23
+Oklahoma City Thunder,G,Alex Abrines,6 ft 6 in (1.98 m),190 lb (86 kg),1993–08–01
+Oklahoma City Thunder,C,Steven Adams,7 ft 0 in (2.13 m),255 lb (116 kg),1993–07–20
+Oklahoma City Thunder,G,Deonte Burton,6 ft 5 in (1.96 m),250 lb (113 kg),1994–01–31
+Oklahoma City Thunder,G,Hamidou Diallo,6 ft 5 in (1.96 m),198 lb (90 kg),1998–07–31
+Oklahoma City Thunder,G,Raymond Felton,6 ft 1 in (1.85 m),205 lb (93 kg),1984–06–26
+Oklahoma City Thunder,G,Terrance Ferguson,6 ft 7 in (2.01 m),184 lb (83 kg),1998–05–17
+Oklahoma City Thunder,F,Paul George,6 ft 9 in (2.06 m),220 lb (100 kg),1990–05–02
+Oklahoma City Thunder,F,Jerami Grant,6 ft 9 in (2.06 m),220 lb (100 kg),1994–03–12
+Oklahoma City Thunder,G,Devon Hall,6 ft 6 in (1.98 m),206 lb (93 kg),1995–07–07
+Oklahoma City Thunder,F,Kevin Hervey,6 ft 8 in (2.03 m),211 lb (96 kg),1996–07–09
+Oklahoma City Thunder,G/F,Timothe Luwawu-Cabarrot,6 ft 6 in (1.98 m),200 lb (91 kg),1995–05–09
+Oklahoma City Thunder,F,Abdel Nader,6 ft 6 in (1.98 m),230 lb (104 kg),1993–09–25
+Oklahoma City Thunder,C,Nerlens Noel,6 ft 11 in (2.11 m),220 lb (100 kg),1994–04–10
+Oklahoma City Thunder,F,Patrick Patterson,6 ft 9 in (2.06 m),230 lb (104 kg),1989–03–14
+Oklahoma City Thunder,G,Andre Roberson,6 ft 7 in (2.01 m),210 lb (95 kg),1991–12–04
+Oklahoma City Thunder,G,Dennis Schroder,6 ft 1 in (1.85 m),172 lb (78 kg),1993–09–15
+Oklahoma City Thunder,F,Kyle Singler,6 ft 8 in (2.03 m),228 lb (103 kg),1988–05–04
+Oklahoma City Thunder,G,Russell Westbrook,6 ft 3 in (1.91 m),200 lb (91 kg),1988–11–12
+Portland Trail Blazers,F,Al-Farouq Aminu,6 ft 9 in (2.06 m),220 lb (100 kg),1990–09–21
+Portland Trail Blazers,G,Wade Baldwin,6 ft 4 in (1.93 m),202 lb (92 kg),1996–03–29
+Portland Trail Blazers,F/C,Zach Collins,7 ft 0 in (2.13 m),230 lb (104 kg),1997–11–19
+Portland Trail Blazers,G,Seth Curry,6 ft 2 in (1.88 m),185 lb (84 kg),1990–08–23
+Portland Trail Blazers,F/C,Ed Davis,6 ft 10 in (2.08 m),245 lb (111 kg),1989–06–05
+Portland Trail Blazers,F,Maurice Harkless,6 ft 9 in (2.06 m),220 lb (100 kg),1993–05–11
+Portland Trail Blazers,F,Jake Layman,6 ft 9 in (2.06 m),210 lb (95 kg),1994–03–07
+Portland Trail Blazers,C,Meyers Leonard,7 ft 1 in (2.16 m),255 lb (116 kg),1992–02–27
+Portland Trail Blazers,G,Damian Lillard,6 ft 3 in (1.91 m),195 lb (88 kg),1990–07–15
+Portland Trail Blazers,G,C. J. McCollum,6 ft 3 in (1.91 m),190 lb (86 kg),1991–09–19
+Portland Trail Blazers,C,Jusuf Nurkic,7 ft 0 in (2.13 m),280 lb (127 kg),1994–08–23
+Portland Trail Blazers,G,Anfernee Simons,6 ft 4 in (1.93 m),183 lb (83 kg),1999–06–08
+Portland Trail Blazers,G,Nik Stauskas,6 ft 6 in (1.98 m),205 lb (93 kg),1993–10–07
+Portland Trail Blazers,F/C,Caleb Swanigan,6 ft 8 in (2.03 m),250 lb (113 kg),1997–04–18
+Portland Trail Blazers,G,Gary Trent,6 ft 6 in (1.98 m),204 lb (93 kg),1999–01–18
+Portland Trail Blazers,G/F,Evan Turner,6 ft 7 in (2.01 m),220 lb (100 kg),1988–10–27
+Utah Jazz,G,Grayson Allen,6 ft 5 in (1.96 m),198 lb (90 kg),1995–10–08
+Utah Jazz,C,Tony Bradley,6 ft 10 in (2.08 m),248 lb (112 kg),1998–01–08
+Utah Jazz,G,Alec Burks,6 ft 6 in (1.98 m),214 lb (97 kg),1991–07–20
+Utah Jazz,F,Jae Crowder,6 ft 6 in (1.98 m),235 lb (107 kg),1990–07–06
+Utah Jazz,G,Dante Exum,6 ft 6 in (1.98 m),190 lb (86 kg),1995–07–13
+Utah Jazz,F/C,Derrick Favors,6 ft 10 in (2.08 m),265 lb (120 kg),1991–07–15
+Utah Jazz,C,Rudy Gobert,7 ft 1 in (2.16 m),245 lb (111 kg),1992–06–26
+Utah Jazz,F,Joe Ingles,6 ft 8 in (2.03 m),226 lb (103 kg),1987–10–02
+Utah Jazz,G,Jairus Lyles,6 ft 2 in (1.88 m),175 lb (79 kg),1995–07–06
+Utah Jazz,G,Donovan Mitchell,6 ft 3 in (1.91 m),215 lb (98 kg),1996–09–07
+Utah Jazz,G,Naz Mitrou-Long,6 ft 4 in (1.93 m),218 lb (99 kg),1993–08–03
+Utah Jazz,G,Raul Neto,6 ft 1 in (1.85 m),179 lb (81 kg),1992–05–19
+Utah Jazz,F,Georges Niang,6 ft 6 in (1.98 m),231 lb (105 kg),1993–06–17
+Utah Jazz,F,Royce O'Neale,6 ft 6 in (1.98 m),226 lb (103 kg),1993–06–05
+Utah Jazz,G,Ricky Rubio,6 ft 4 in (1.93 m),190 lb (86 kg),1990–10–21
+Utah Jazz,F,Thabo Sefolosha,6 ft 7 in (2.01 m),220 lb (100 kg),1984–05–02
+Utah Jazz,G,David Stockton,5 ft 11 in (1.80 m),165 lb (75 kg),1991–06–24
+Utah Jazz,F/C,Ekpe Udoh,6 ft 10 in (2.08 m),245 lb (111 kg),1987–05–20
+Golden State Warriors,F/C,Jordan Bell,6 ft 9 in (2.06 m),224 lb (102 kg),1995–01–07
+Golden State Warriors,G,Quinn Cook,6 ft 2 in (1.88 m),179 lb (81 kg),1993–03–23
+Golden State Warriors,C,DeMarcus Cousins,6 ft 11 in (2.11 m),270 lb (122 kg),1990–08–13
+Golden State Warriors,G,Stephen Curry,6 ft 3 in (1.91 m),190 lb (86 kg),1988–03–14
+Golden State Warriors,F,Kevin Durant,6 ft 9 in (2.06 m),240 lb (109 kg),1988–09–29
+Golden State Warriors,G,Jacob Evans,6 ft 6 in (1.98 m),199 lb (90 kg),1997–06–18
+Golden State Warriors,F,Draymond Green,6 ft 7 in (2.01 m),230 lb (104 kg),1990–03–04
+Golden State Warriors,G/F,Andre Iguodala,6 ft 6 in (1.98 m),215 lb (98 kg),1984–01–28
+Golden State Warriors,F,Jonas Jerebko,6 ft 10 in (2.08 m),231 lb (105 kg),1987–03–12
+Golden State Warriors,C,Damian Jones,7 ft 0 in (2.13 m),245 lb (111 kg),1995–06–30
+Golden State Warriors,G,Damion Lee,6 ft 6 in (1.98 m),210 lb (95 kg),1992–10–21
+Golden State Warriors,G,Shaun Livingston,6 ft 7 in (2.01 m),192 lb (87 kg),1985–09–11
+Golden State Warriors,F,Kevon Looney,6 ft 9 in (2.06 m),220 lb (100 kg),1996–02–06
+Golden State Warriors,G,Patrick McCaw,6 ft 7 in (2.01 m),185 lb (84 kg),1995–10–25
+Golden State Warriors,G,Klay Thompson,6 ft 7 in (2.01 m),215 lb (98 kg),1990–02–08
+Los Angeles Clippers,G,Patrick Beverley,6 ft 1 in (1.85 m),185 lb (84 kg),1988–07–12
+Los Angeles Clippers,G,Avery Bradley,6 ft 2 in (1.88 m),180 lb (82 kg),1990–11–26
+Los Angeles Clippers,F,Sam Dekker,6 ft 9 in (2.06 m),230 lb (104 kg),1994–05–06
+Los Angeles Clippers,C,Angel Delgado,6 ft 10 in (2.08 m),245 lb (111 kg),1994–11–20
+Los Angeles Clippers,G,Jawun Evans,6 ft 0 in (1.83 m),190 lb (86 kg),1996–07–26
+Los Angeles Clippers,F,Danilo Gallinari,6 ft 10 in (2.08 m),225 lb (102 kg),1988–08–08
+Los Angeles Clippers,G,Shai Gilgeous-Alexander,6 ft 6 in (1.98 m),180 lb (82 kg),1998–07–12
+Los Angeles Clippers,C,Marcin Gortat,6 ft 11 in (2.11 m),240 lb (109 kg),1984–02–17
+Los Angeles Clippers,F/C,Montrezl Harrell,6 ft 8 in (2.03 m),240 lb (109 kg),1994–01–26
+Los Angeles Clippers,F,Tobias Harris,6 ft 9 in (2.06 m),235 lb (107 kg),1992–07–15
+Los Angeles Clippers,G/F,Wesley Johnson,6 ft 7 in (2.01 m),215 lb (98 kg),1987–07–11
+Los Angeles Clippers,C,Boban Marjanovic,7 ft 3 in (2.21 m),290 lb (132 kg),1988–08–15
+Los Angeles Clippers,F,Mbah,6 ft 8 in (2.03 m),230 lb (104 kg),1986–09–09
+Los Angeles Clippers,F,Johnathan Motley,6 ft 10 in (2.08 m),230 lb (104 kg),1995–05–04
+Los Angeles Clippers,G,Jerome Robinson,6 ft 5 in (1.96 m),188 lb (85 kg),1997–02–22
+Los Angeles Clippers,F,Mike Scott,6 ft 8 in (2.03 m),237 lb (108 kg),1988–07–16
+Los Angeles Clippers,G,Milos Teodosic,6 ft 5 in (1.96 m),196 lb (89 kg),1987–03–19
+Los Angeles Clippers,G,Sindarius Thornwell,6 ft 5 in (1.96 m),215 lb (98 kg),1994–11–15
+Los Angeles Clippers,G,Lou Williams,6 ft 1 in (1.85 m),175 lb (79 kg),1986–10–27
+Los Angeles Lakers,G,Lonzo Ball,6 ft 6 in (1.98 m),190 lb (86 kg),1997–10–27
+Los Angeles Lakers,F,Michael Beasley,6 ft 9 in (2.06 m),235 lb (107 kg),1989–01–09
+Los Angeles Lakers,G,Joel Berry,6 ft 0 in (1.83 m),195 lb (88 kg),1995–04–01
+Los Angeles Lakers,G,Isaac Bonga,6 ft 9 in (2.06 m),203 lb (92 kg),1999–11–08
+Los Angeles Lakers,G,Kentavious Caldwell-Pope,6 ft 5 in (1.96 m),205 lb (93 kg),1993–02–18
+Los Angeles Lakers,G,Jeffrey Carroll,6 ft 6 in (1.98 m),210 lb (95 kg),1994–11–06
+Los Angeles Lakers,G,Alex Caruso,6 ft 5 in (1.96 m),186 lb (84 kg),1994–02–28
+Los Angeles Lakers,F,Luol Deng,6 ft 9 in (2.06 m),220 lb (100 kg),1985–04–16
+Los Angeles Lakers,G,Josh Hart,6 ft 5 in (1.96 m),215 lb (98 kg),1995–03–06
+Los Angeles Lakers,G/F,Brandon Ingram,6 ft 9 in (2.06 m),190 lb (86 kg),1997–09–02
+Los Angeles Lakers,G/F,LeBron James,6 ft 8 in (2.03 m),250 lb (113 kg),1984–12–30
+Los Angeles Lakers,F,Kyle Kuzma,6 ft 9 in (2.06 m),220 lb (100 kg),1995–07–24
+Los Angeles Lakers,C,JaVale McGee,7 ft 0 in (2.13 m),270 lb (122 kg),1988–01–19
+Los Angeles Lakers,F,Sviatoslav Mykhailiuk,6 ft 8 in (2.03 m),212 lb (96 kg),1997–06–10
+Los Angeles Lakers,G,Rajon Rondo,6 ft 1 in (1.85 m),186 lb (84 kg),1986–02–22
+Los Angeles Lakers,G,Lance Stephenson,6 ft 5 in (1.96 m),230 lb (104 kg),1990–09–05
+Los Angeles Lakers,F,Moritz Wagner,7 ft 0 in (2.13 m),241 lb (109 kg),1997–04–26
+Los Angeles Lakers,F,Travis Wear,6 ft 10 in (2.08 m),190 lb (86 kg),1990–09–21
+Los Angeles Lakers,F,Johnathan Williams,6 ft 9 in (2.06 m),230 lb (104 kg),1995–05–22
+Los Angeles Lakers,C,Ivica Zubac,7 ft 1 in (2.16 m),265 lb (120 kg),1997–03–18
+Phoenix Suns,G/F,Trevor Ariza,6 ft 8 in (2.03 m),215 lb (98 kg),1985–06–30
+Phoenix Suns,F,Darrell Arthur,6 ft 9 in (2.06 m),235 lb (107 kg),1988–03–25
+Phoenix Suns,F/C,Deandre Ayton,7 ft 1 in (2.16 m),250 lb (113 kg),1998–07–23
+Phoenix Suns,F,Dragan Bender,7 ft 1 in (2.16 m),225 lb (102 kg),1997–11–17
+Phoenix Suns,G,Devin Booker,6 ft 6 in (1.98 m),210 lb (95 kg),1996–10–30
+Phoenix Suns,G/F,Mikal Bridges,6 ft 7 in (2.01 m),210 lb (95 kg),1996–08–30
+Phoenix Suns,C,Tyson Chandler,7 ft 1 in (2.16 m),240 lb (109 kg),1982–10–02
+Phoenix Suns,F,Marquese Chriss,6 ft 10 in (2.08 m),240 lb (109 kg),1997–07–02
+Phoenix Suns,G,Troy Daniels,6 ft 4 in (1.93 m),205 lb (93 kg),1991–07–15
+Phoenix Suns,G,Shaquille Harrison,6 ft 4 in (1.93 m),190 lb (86 kg),1993–10–06
+Phoenix Suns,F/C,Richaun Holmes,6 ft 10 in (2.08 m),235 lb (107 kg),1993–10–15
+Phoenix Suns,G/F,Josh Jackson,6 ft 8 in (2.03 m),200 lb (91 kg),1997–02–10
+Phoenix Suns,F,George King,6 ft 6 in (1.98 m),218 lb (99 kg),1994–01–15
+Phoenix Suns,G,Brandon Knight,6 ft 3 in (1.91 m),195 lb (88 kg),1991–12–02
+Phoenix Suns,G,Elie Okobo,6 ft 2 in (1.88 m),180 lb (82 kg),1996–10–23
+Phoenix Suns,G,Davon Reed,6 ft 6 in (1.98 m),210 lb (95 kg),1995–06–11
+Phoenix Suns,F,T. J. Warren,6 ft 8 in (2.03 m),215 lb (98 kg),1993–09–05
+Sacramento Kings,F,Marvin Bagley,6 ft 11 in (2.11 m),234 lb (106 kg),1999–03–14
+Sacramento Kings,F,Nemanja Bjelica,6 ft 10 in (2.08 m),234 lb (106 kg),1988–05–09
+Sacramento Kings,G,Bogdan Bogdanovic,6 ft 6 in (1.98 m),205 lb (93 kg),1992–08–18
+Sacramento Kings,C,Willie Cauley-Stein,7 ft 0 in (2.13 m),240 lb (109 kg),1993–08–18
+Sacramento Kings,F/C,Deyonta Davis,6 ft 11 in (2.11 m),237 lb (108 kg),1996–12–02
+Sacramento Kings,G,Yogi Ferrell,6 ft 0 in (1.83 m),180 lb (82 kg),1993–05–09
+Sacramento Kings,G,De'Aaron Fox,6 ft 3 in (1.91 m),175 lb (79 kg),1997–12–20
+Sacramento Kings,F,Wenyen Gabriel,6 ft 9 in (2.06 m),213 lb (97 kg),1997–03–26
+Sacramento Kings,F/C,Harry Giles,6 ft 10 in (2.08 m),240 lb (109 kg),1998–04–22
+Sacramento Kings,G,Buddy Hield,6 ft 4 in (1.93 m),214 lb (97 kg),1993–12–17
+Sacramento Kings,F,Justin Jackson,6 ft 8 in (2.03 m),210 lb (95 kg),1995–03–28
+Sacramento Kings,C,Kosta Koufos,7 ft 0 in (2.13 m),265 lb (120 kg),1989–02–24
+Sacramento Kings,F/C,Skal Labissiere,6 ft 11 in (2.11 m),225 lb (102 kg),1996–03–18
+Sacramento Kings,G,Frank Mason,5 ft 11 in (1.80 m),190 lb (86 kg),1994–04–03
+Sacramento Kings,G,Ben McLemore,6 ft 5 in (1.96 m),195 lb (88 kg),1993–02–11
+Sacramento Kings,F,Zach Randolph,6 ft 9 in (2.06 m),250 lb (113 kg),1981–07–16
+Sacramento Kings,G,Iman Shumpert,6 ft 5 in (1.96 m),220 lb (100 kg),1990–06–26
