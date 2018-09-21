@@ -1,9 +1,6 @@
 import csv
-import bs4
 import sys
 import time
-from urllib.request import urlopen as uReq
-from bs4 import BeautifulSoup as soup
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.ui import Select
@@ -13,6 +10,7 @@ from selenium.common.exceptions import TimeoutException
 players = {}
 ids = []
 
+# put data from csv into dictionary
 with open('playerIDs.csv') as DataFile:
 	csvReader = csv.reader(DataFile)
 	next(DataFile)
@@ -39,6 +37,7 @@ for i in range(len(ids)):
 	driver.get(myUrl)
 	time.sleep(5)
 
+	# used to gather all pages of table on webpage
 	try:
 		select = Select(driver.find_element_by_xpath('/html/body/main/div[2]/div/div/div[3]/div/div/div/nba-stat-table/div[1]/div/div/select'))
 		#select.select_by_value('All')
@@ -47,6 +46,7 @@ for i in range(len(ids)):
 	except:
 		pass
 
+	# used to write all games currently displayed on webpage into csv file
 	games = driver.find_elements_by_xpath('/html/body/main/div[2]/div/div/div[3]/div/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr')
 	for game in games:
 		match = game.find_element_by_xpath('.//td[1]').text

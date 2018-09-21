@@ -3,8 +3,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-from bs4 import BeautifulSoup as soup
-
 # hides chrome browser opening
 options = webdriver.ChromeOptions()
 options.add_argument('headless')
@@ -19,7 +17,7 @@ f = open(filename, 'w')
 headers = 'Player Name, Player ID\n'
 f.write(headers)
 
-# opens connection
+# container for URL links of players
 links = driver.find_elements_by_class_name('players-list__name')
 
 # parses strings for player ids and player names
@@ -40,4 +38,5 @@ for link in links:
 
 f.close()
 
+driver.stop_client()
 driver.close()
