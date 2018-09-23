@@ -8,7 +8,7 @@ If you wish to use the current web scraper to create the data set, these instruc
 
 ### Required Packages
 
-The selenium package is used to process the HTML on the webpages into usable data in the form of csv files. A python environment is required to use my specific package, the command to install this package is
+The selenium package is used to process the HTML on the webpages into usable data in the form of csv files. A python environment is required to use this specific package, the command to install this package is:
 ```
 pip install selenium
 ```
@@ -22,6 +22,7 @@ python player_ids.py
 This generates a dictionary mapping all of the current players to their corresponding player IDs as listed on the official NBA website
 
 To then create the data for each player run the command:
+
 **WARNING:** Running this script opens a selenium driver which downloads information on all current NBA players, this script took me approximately 10 hours to complete, but you can close the driver at any point.
 ```
 python playerscrape.py
@@ -29,4 +30,4 @@ python playerscrape.py
 
 ## References
 
-* [https://stats.nba.com/](https://stats.nba.com/) where all the data is obtained from
+* [https://stats.nba.com/](https://stats.nba.com/) - Source of data
