@@ -15,8 +15,6 @@ with open('playerIDs.csv') as DataFile:
 	csvReader = csv.reader(DataFile)
 	next(DataFile)
 	for row in csvReader:
-		#print('Name:',row[0])
-		#print('ID:',row[1])
 		players[row[1]] = row[0]
 		ids.append(row[1])
 
@@ -40,9 +38,7 @@ for i in range(len(ids)):
 	# used to gather all pages of table on webpage
 	try:
 		select = Select(driver.find_element_by_xpath('/html/body/main/div[2]/div/div/div[3]/div/div/div/nba-stat-table/div[1]/div/div/select'))
-		#select.select_by_value('All')
 		select.select_by_visible_text('All')
-		#time.sleep(5)
 	except:
 		pass
 
@@ -78,12 +74,4 @@ for i in range(len(ids)):
 		pm = game.find_element_by_xpath('.//td[22]').text
 		f.write(gametype + ',' + opp + ',' + wl + ',' + minutes + ',' + pts + ',' + fgm + ',' + fga + ',' + fgper + ',' + threepm + ',' + threepa + ',' + threepper + ',' + ftm + ',' + fta + ',' + ftper + ',' + oreb + ',' + dreb + ',' + reb + ',' + ast + ',' + stl + ',' + blk + ',' + tov + ',' + pf + ',' + pm + '\n')
 	f.close()
-	#print(stl,blk,tov)
-
-	#team1 = match[15:18]
-	#team2 = match[-3:]
-	#print(team1,team2)
-	#print(gametype)
-#print(team1,team2)
-	#driver.stop_client()
 driver.close()
