@@ -5,7 +5,7 @@ from selenium.common.exceptions import TimeoutException
 
 # hides chrome browser opening
 options = webdriver.ChromeOptions()
-options.add_argument('headless')
+#options.add_argument('headless')
 
 driver = webdriver.Chrome(chrome_options=options)
 
